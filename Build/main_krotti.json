@@ -1,0 +1,16 @@
+{
+"companyName": "DesmobGames",
+"productName": "penguin_royale",
+"productVersion": "0.1",
+"dataUrl": "main_krotti.data.unityweb",
+"wasmCodeUrl": "main_krotti.wasm.code.unityweb",
+"wasmFrameworkUrl": "main_krotti.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}

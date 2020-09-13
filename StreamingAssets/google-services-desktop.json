@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573485006084",
+    "firebase_url": "https://penguin-battle-royale.firebaseio.com",
+    "project_id": "penguin-battle-royale",
+    "storage_bucket": "penguin-battle-royale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573485006084:android:d4c0122e26fc57485ee451",
+        "android_client_info": {
+          "package_name": "com.DesmobGames.penguin_royale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573485006084-sl63ucusrd8oq9grs5b5pkp4ag28mvv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8TJ32Bnvl3u0W4Nf3tbcijoCvbve80IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573485006084-sl63ucusrd8oq9grs5b5pkp4ag28mvv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
